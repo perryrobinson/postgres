@@ -1,6 +1,6 @@
 # postgres
 
-This is just a simple repository to create a local container that has postgres and pgadmin in it, to local development for web applications that require a db layer.
+This is just a simple repository to create a local container that has postgres and pgadmin in it, to allow local development for web applications that require a db layer.
 
 ## Run postgres and pgadmin
 
